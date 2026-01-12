@@ -6,7 +6,6 @@
 
 </div>
 
----
 
 ## About
 
@@ -14,8 +13,6 @@ I design and build information systems that bridge technical capability with rea
 
 My background spans Education, AI, and Information Systems. I am not a pure software engineer, nor a product manager. What I bring is the ability to design and implement working systems while considering whether they will be adopted, how information flows within organizations, and how technology decisions affect long-term outcomes.
 
-
----
 
 ## How I Approach Technology
 
@@ -28,7 +25,6 @@ I treat technical systems as solutions embedded in human contexts.
 
 I work across the stack when needed, but my focus remains on the information problem being solved.
 
----
 
 ## Technical Stack
 
@@ -50,7 +46,6 @@ I work across the stack when needed, but my focus remains on the information pro
 
 </div>
 
----
 
 ## Project Categories
 
@@ -66,7 +61,6 @@ Campus accessibility mapping. Smart tourism platforms. Systems that serve divers
 ### Data Analysis
 Weather pattern analysis. Financial data processing. Structured approaches to extracting insights from messy real-world data.
 
----
 
 ## GitHub Statistics
 
@@ -84,14 +78,6 @@ Weather pattern analysis. Financial data processing. Structured approaches to ex
 
 </div>
 
-<div align="center">
-
-<!-- GitHub Streak Stats - Updated URL -->
-<img src="https://streak-stats.demolab.com/?user=LarryinMexico&hide_border=true&background=FFFFFF&stroke=EEEEEE&ring=000000&fire=1a1a1a&currStreakLabel=333333&sideLabels=333333&currStreakNum=000000&sideNums=666666&dates=999999" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## Activity Graph
 
@@ -102,7 +88,6 @@ Weather pattern analysis. Financial data processing. Structured approaches to ex
 
 </div>
 
----
 
 <div align="center">
 
