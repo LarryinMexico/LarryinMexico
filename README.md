@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Information+Systems+Designer;Education+%2B+AI+%2B+Enterprise+Systems;Building+Systems+That+People+Actually+Use" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=4000&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Information+Systems+Designer;Education+%2B+AI+%2B+Enterprise+Systems" alt="Typing SVG" />
 </a>
 
 </div>
@@ -19,7 +19,7 @@ My background spans Education, AI, and Information Systems. I am not a pure soft
 
 ## How I Approach Technology
 
-I treat technical systems as solutions embedded in human contexts. This means:
+I treat technical systems as solutions embedded in human contexts. 
 
 - Designing for actual adoption, not just technical completeness  
 - Understanding how organizations govern and trust information  
@@ -101,20 +101,6 @@ Weather pattern analysis. Financial data processing. Structured approaches to ex
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LarryinMexico&bg_color=ffffff&color=333333&line=1a1a1a&point=000000&area_color=f5f5f5&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/YOUR_USERNAME)
 
 </div>
-
----
-
-## What I Am Looking For
-
-I am currently applying to graduate programs in Information Systems and related fields.
-
-I am interested in:
-
-- Research or applied work on how organizations adopt and integrate AI-based information systems  
-- Positions that combine system design, data work, and understanding of user needs  
-- Collaborations on education technology, enterprise knowledge systems, or public-sector information tools  
-
-If my work aligns with your research or organizational needs, I am open to conversation.
 
 ---
 
