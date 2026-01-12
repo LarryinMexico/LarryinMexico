@@ -4,8 +4,6 @@
 
 ## About
 
-I design and build information systems that bridge technical capability with real organizational needs.
-
 My background spans Education, AI, and Information Systems. I am not a pure software engineer, nor a product manager. What I bring is the ability to design and implement working systems while considering whether they will be adopted, how information flows within organizations, and how technology decisions affect long-term outcomes.
 
 ## Technical Stack
