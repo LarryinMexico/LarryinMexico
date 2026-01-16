@@ -34,13 +34,13 @@ My background spans Education, AI, and Information Systems. I am not a pure soft
 RAG-based question-answering systems for course materials. Automatic question generation for learning assessment. Systems designed with instructors and students in mind, not just technical benchmarks.
 
 ### Enterprise Knowledge Systems
-Internal knowledge retrieval tools for organizations. HR policy assistants. B2B document processing pipelines. Focus on information governance and user trust.
+Internal knowledge retrieval tools for organizations. B2B document processing pipelines. 
 
 ### Public-Facing Information Systems
-Campus accessibility mapping. Smart tourism platforms. Systems that serve diverse user groups with varying technical literacy.
+Campus accessibility mapping.
 
 ### Data Analysis
-Weather pattern analysis. Financial data processing. Structured approaches to extracting insights from messy real-world data.
+Weather pattern analysis. Structured approaches to extracting insights from messy real-world data.
 
 
 ## GitHub Statistics
