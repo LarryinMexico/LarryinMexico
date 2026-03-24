@@ -18,10 +18,6 @@ My background spans Education, AI, and Information Systems. I am not a pure soft
 <img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white)
-![Sentence--BERT](https://img.shields.io/badge/Sentence--BERT-121212?style=for-the-badge&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-121212?style=for-the-badge&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-121212?style=for-the-badge&logo=powerautomate&logoColor=white)
 <br />
 <br />
 </div>
