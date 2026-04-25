@@ -1,11 +1,6 @@
   
 # Sam Chen 🏊‍♂️
 
-
-## About
-
-My background spans Education, AI, and Information Systems. I am not a pure software engineer, nor a product manager. What I bring is the ability to design and implement working systems while considering whether they will be adopted, how information flows within organizations, and how technology decisions affect long-term outcomes.
-
 ## Technical Stack
 
 <div>
@@ -14,29 +9,12 @@ My background spans Education, AI, and Information Systems. I am not a pure soft
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
 <br />
 </div>
-
-
-
-## Project Categories
-
-### Education Systems
-RAG-based question-answering systems for course materials. Automatic question generation for learning assessment. Systems designed with instructors and students in mind, not just technical benchmarks.
-
-### Enterprise Knowledge Systems
-Internal knowledge retrieval tools for organizations. B2B document processing pipelines. 
-
-### Public-Facing Information Systems
-Campus accessibility mapping.
-
-### Data Analysis
-Weather pattern analysis. Structured approaches to extracting insights from messy real-world data.
 
 
 ## GitHub Statistics
