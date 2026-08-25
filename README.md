@@ -1,49 +1,18 @@
-  
-# Sam Chen 🏊‍♂️
-Hello
+# Sam Chen
 
-## Technical Stack
+MISM @ Carnegie Mellon · B.S. in AI Applications @ NCCU
 
-<div>
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+I build LLM systems that have to work inside constraints — a 4.5 GB model on a 6 GB
+phone, a bank's recommendation logic that isn't allowed to live in a prompt, a
+388-page product catalog that only exists as scanned images.
 
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+Python · Swift · TypeScript. Currently working on MCP tooling, retrieval quality,
+and on-device inference.
 
-<br />
-<br />
-</div>
+📍 Pittsburgh, PA · [LinkedIn](https://www.linkedin.com/in/chenweicheng123)
 
 
-## GitHub Statistics
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<a href="https://github.com/LarryinMexico">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LarryinMexico&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=1a1a1a" alt="GitHub Stats" height="165" />
-</a>
-
-<!-- Top Languages Card -->
-<a href="https://github.com/LarryinMexico">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LarryinMexico&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" alt="Top Languages" height="165" />
-</a>
-
-</div>
-
-
-## Activity Graph
-
-<!-- GitHub Activity Graph - Optional, requires setup -->
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LarryinMexico&bg_color=ffffff&color=333333&line=1a1a1a&point=000000&area_color=f5f5f5&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/YOUR_USERNAME)
-
-</div>
-
+</br>
 
 <div align="center">
 
