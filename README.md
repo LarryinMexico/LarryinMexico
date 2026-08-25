@@ -10,13 +10,3 @@ Python · Swift · TypeScript. Currently working on MCP tooling, retrieval quali
 and on-device inference.
 
 📍 Pittsburgh, PA · [LinkedIn](https://www.linkedin.com/in/chenweicheng123)
-
-
-</br>
-
-<div align="center">
-
-<!-- Profile Views Counter - Optional -->
-<img src="https://komarev.com/ghpvc/?username=LarryinMexico&color=333333&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-</div>
