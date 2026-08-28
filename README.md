@@ -1,6 +1,6 @@
 # Sam Chen
 
-MISM @ Carnegie Mellon · B.S. in AI Applications @ NCCU
+MISM @ CMU · B.S. in AI Applications @ NCCU
 
 I build LLM systems that have to work inside constraints — a 4.5 GB model on a 6 GB
 phone, a bank's recommendation logic that isn't allowed to live in a prompt, a
